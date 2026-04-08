@@ -62,7 +62,7 @@ Steps included:
 ---
 
 ##  Dashboard & Visuals  
-![](Sales Db.png) 
+![](J&J Sales Dashboard.jpg) 
 
 The dashboard includes:  
 - KPI Cards (Sales, Quantity, Cost, Profit)  
