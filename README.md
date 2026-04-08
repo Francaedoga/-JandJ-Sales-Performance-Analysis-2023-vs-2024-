@@ -62,7 +62,7 @@ Steps included:
 ---
 
 ##  Dashboard & Visuals  
-*![](Image_Cover.jpg) *
+![](Sales Db.png) 
 
 The dashboard includes:  
 - KPI Cards (Sales, Quantity, Cost, Profit)  
